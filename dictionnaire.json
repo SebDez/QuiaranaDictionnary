@@ -1,0 +1,649 @@
+[{
+        "wordQuiarana": "Mé",
+        "traductionFr": ["je"]
+    },
+    {
+        "wordQuiarana": "Té",
+        "traductionFr": ["Tu"]
+    },
+    {
+        "wordQuiarana": "Né",
+        "traductionFr": ["Il"]
+    },
+    {
+        "wordQuiarana": "Na",
+        "traductionFr": ["elle"]
+    },
+    {
+        "wordQuiarana": "Ni",
+        "traductionFr": ["ça", "on"]
+    },
+    {
+        "wordQuiarana": "Navo",
+        "traductionFr": ["Nous"]
+    },
+    {
+        "wordQuiarana": "Tevo",
+        "traductionFr": ["Vous"]
+    },
+    {
+        "wordQuiarana": "Klo",
+        "traductionFr": ["Ils", "elles", "eux"]
+    },
+    {
+        "wordQuiarana": "Mo",
+        "traductionFr": ["moi"]
+    },
+    {
+        "wordQuiarana": "zo",
+        "traductionFr": ["toi"]
+    },
+    {
+        "wordQuiarana": "ko",
+        "traductionFr": ["lui"]
+    },
+    {
+        "wordQuiarana": "ka",
+        "traductionFr": ["elle"]
+    },
+    {
+        "wordQuiarana": "ki",
+        "traductionFr": ["ça", "ses"]
+    },
+    {
+        "wordQuiarana": "motz",
+        "traductionFr": ["mon"]
+    },
+    {
+        "wordQuiarana": "zotz",
+        "traductionFr": ["ton"]
+    },
+    {
+        "wordQuiarana": "kotz",
+        "traductionFr": ["son"]
+    },
+    {
+        "wordQuiarana": "katz",
+        "traductionFr": ["sa"]
+    },
+    {
+        "wordQuiarana": "navotz",
+        "traductionFr": ["notre"]
+    },
+    {
+        "wordQuiarana": "tevotz",
+        "traductionFr": ["votre"]
+    },
+    {
+        "wordQuiarana": "klotz",
+        "traductionFr": ["leur", "leurs"]
+    },
+    {
+        "wordQuiarana": "-nak",
+        "traductionFr": ["proprité de", "'s"]
+    },
+    {
+        "wordQuiarana": "an (ane)",
+        "traductionFr": ["un", "une"]
+    },
+    {
+        "wordQuiarana": "èn (ène)",
+        "traductionFr": ["des", "les"]
+    },
+    {
+        "wordQuiarana": "tei",
+        "traductionFr": ["article nul", "de"]
+    },
+    {
+        "wordQuiarana": "tchi",
+        "traductionFr": ["le", "la", "the"]
+    },
+    {
+        "wordQuiarana": "kaz",
+        "traductionFr": ["celui là", "this"]
+    },
+    {
+        "wordQuiarana": "kokz",
+        "traductionFr": ["celui qui"]
+    },
+    {
+        "wordQuiarana": "lent (lènt)",
+        "traductionFr": ["indivi du responsable de", "who"]
+    },
+    {
+        "wordQuiarana": "Lant",
+        "traductionFr": ["objet/non individu responsable de", "which"]
+    },
+    {
+        "wordQuiarana": "-th",
+        "traductionFr": ["pluriel"]
+    },
+    {
+        "wordQuiarana": "oun",
+        "traductionFr": ["pluriel"]
+    },
+    {
+        "wordQuiarana": "mal",
+        "traductionFr": ["maison"]
+    },
+    {
+        "wordQuiarana": "malth",
+        "traductionFr": ["maisons"]
+    },
+    {
+        "wordQuiarana": "dalèv",
+        "traductionFr": ["pomme"]
+    },
+    {
+        "wordQuiarana": "dalèvèth",
+        "traductionFr": ["pommes"]
+    },
+    {
+        "wordQuiarana": "mé lèka",
+        "traductionFr": ["je suis"]
+    },
+    {
+        "wordQuiarana": "té tètka",
+        "traductionFr": ["tu es"]
+    },
+    {
+        "wordQuiarana": "né/na/ni vazki",
+        "traductionFr": ["il/elle/on est"]
+    },
+    {
+        "wordQuiarana": "navo tètkè",
+        "traductionFr": ["nous sommes"]
+    },
+    {
+        "wordQuiarana": "tevo tètki",
+        "traductionFr": ["vous êtes"]
+    },
+    {
+        "wordQuiarana": "klo vazké",
+        "traductionFr": ["ils/elles sont"]
+    },
+    {
+        "wordQuiarana": "mé lèkatra",
+        "traductionFr": ["j'étais"]
+    },
+    {
+        "wordQuiarana": "té tètkatra",
+        "traductionFr": ["tu étais"]
+    },
+    {
+        "wordQuiarana": "né/na/ni vazkil",
+        "traductionFr": ["il/elle/on était"]
+    },
+    {
+        "wordQuiarana": "navo tètkètrè",
+        "traductionFr": ["nous étions"]
+    },
+    {
+        "wordQuiarana": "tevo tètkitri",
+        "traductionFr": ["vous étiez"]
+    },
+    {
+        "wordQuiarana": "klo vazkel",
+        "traductionFr": ["ils étaient"]
+    },
+    {
+        "wordQuiarana": "mé lèkta",
+        "traductionFr": ["je serais"]
+    },
+    {
+        "wordQuiarana": "té tètla",
+        "traductionFr": ["tu seras"]
+    },
+    {
+        "wordQuiarana": "né/na/ni kazvil",
+        "traductionFr": ["il/elle/on sera"]
+    },
+    {
+        "wordQuiarana": "navo tètlè",
+        "traductionFr": ["nous serons"]
+    },
+    {
+        "wordQuiarana": "tevo tètli",
+        "traductionFr": ["vous serez"]
+    },
+    {
+        "wordQuiarana": "klo kazvèl",
+        "traductionFr": ["ils seront"]
+    },
+    {
+        "wordQuiarana": "mé otcha",
+        "traductionFr": ["j'ai"]
+    },
+    {
+        "wordQuiarana": "té owa",
+        "traductionFr": ["tu as"]
+    },
+    {
+        "wordQuiarana": "né/na/ni wé",
+        "traductionFr": ["il/elle/on a"]
+    },
+    {
+        "wordQuiarana": "navo wai",
+        "traductionFr": ["nous avons"]
+    },
+    {
+        "wordQuiarana": "tevo via",
+        "traductionFr": ["vous avez"]
+    },
+    {
+        "wordQuiarana": "klo otché",
+        "traductionFr": ["ils ont"]
+    },
+    {
+        "wordQuiarana": "mé otchai",
+        "traductionFr": ["j'avais"]
+    },
+    {
+        "wordQuiarana": "té owai",
+        "traductionFr": ["tu avais"]
+    },
+    {
+        "wordQuiarana": "né/na/ni wei",
+        "traductionFr": ["il/elle/on avait"]
+    },
+    {
+        "wordQuiarana": "navo waio",
+        "traductionFr": ["nous avions"]
+    },
+    {
+        "wordQuiarana": "tevo viai",
+        "traductionFr": ["vous aviez"]
+    },
+    {
+        "wordQuiarana": "klo otchèi",
+        "traductionFr": ["ils avaient"]
+    },
+    {
+        "wordQuiarana": "mé otchal",
+        "traductionFr": ["j'aurais"]
+    },
+    {
+        "wordQuiarana": "té owal",
+        "traductionFr": ["tu auras"]
+    },
+    {
+        "wordQuiarana": "na/na/ni wèl",
+        "traductionFr": ["il/elle/on aura"]
+    },
+    {
+        "wordQuiarana": "navo wail",
+        "traductionFr": ["nous aurons"]
+    },
+    {
+        "wordQuiarana": "tevo vial",
+        "traductionFr": ["vous aurez"]
+    },
+    {
+        "wordQuiarana": "klo otchèil",
+        "traductionFr": ["ils auront"]
+    },
+    {
+        "wordQuiarana": "-eg",
+        "traductionFr": ["action passé"]
+    },
+    {
+        "wordQuiarana": "-ank",
+        "traductionFr": ["action en cours"]
+    },
+    {
+        "wordQuiarana": "-el",
+        "traductionFr": ["action futur"]
+    },
+    {
+        "wordQuiarana": "dohok",
+        "traductionFr": ["par"]
+    },
+    {
+        "wordQuiarana": "vastan",
+        "traductionFr": ["devrait"]
+    },
+    {
+        "wordQuiarana": "molpir",
+        "traductionFr": ["doit"]
+    },
+    {
+        "wordQuiarana": "bor",
+        "traductionFr": ["peut"]
+    },
+    {
+        "wordQuiarana": "nokt",
+        "traductionFr": ["négation"]
+    },
+    {
+        "wordQuiarana": "talurk",
+        "traductionFr": ["pas du tout"]
+    },
+    {
+        "wordQuiarana": "fjarg",
+        "traductionFr": ["très peu"]
+    },
+    {
+        "wordQuiarana": "tavr",
+        "traductionFr": ["peu"]
+    },
+    {
+        "wordQuiarana": "goniel",
+        "traductionFr": ["beaucoup"]
+    },
+    {
+        "wordQuiarana": "targan",
+        "traductionFr": ["enormément"]
+    },
+    {
+        "wordQuiarana": "gan...marr",
+        "traductionFr": ["plus...que"]
+    },
+    {
+        "wordQuiarana": "targ...marr",
+        "traductionFr": ["moins...que"]
+    },
+    {
+        "wordQuiarana": "stro...marr",
+        "traductionFr": ["égalité", "autant que"]
+    },
+    {
+        "wordQuiarana": "narro",
+        "traductionFr": ["à"]
+    },
+    {
+        "wordQuiarana": "jopoun",
+        "traductionFr": ["avec"]
+    },
+    {
+        "wordQuiarana": "bèf",
+        "traductionFr": ["avant"]
+    },
+    {
+        "wordQuiarana": "bur",
+        "traductionFr": ["après"]
+    },
+    {
+        "wordQuiarana": "zako",
+        "traductionFr": ["bas"]
+    },
+    {
+        "wordQuiarana": "derz",
+        "traductionFr": ["bientôt"]
+    },
+    {
+        "wordQuiarana": "stro",
+        "traductionFr": ["comme"]
+    },
+    {
+        "wordQuiarana": "zelek",
+        "traductionFr": ["car"]
+    },
+    {
+        "wordQuiarana": "masak",
+        "traductionFr": ["dessus"]
+    },
+    {
+        "wordQuiarana": "mitsuk",
+        "traductionFr": ["dessous"]
+    },
+    {
+        "wordQuiarana": "poia",
+        "traductionFr": ["donc"]
+    },
+    {
+        "wordQuiarana": "néllè",
+        "traductionFr": ["dans"]
+    },
+    {
+        "wordQuiarana": "vayèr",
+        "traductionFr": ["dehors"]
+    },
+    {
+        "wordQuiarana": "dejt",
+        "traductionFr": ["droite"]
+    },
+    {
+        "wordQuiarana": "kuon",
+        "traductionFr": ["devant"]
+    },
+    {
+        "wordQuiarana": "dzak",
+        "traductionFr": ["derrière"]
+    },
+    {
+        "wordQuiarana": "ur",
+        "traductionFr": ["et"]
+    },
+    {
+        "wordQuiarana": "fayne",
+        "traductionFr": ["en"]
+    },
+    {
+        "wordQuiarana": "gutj",
+        "traductionFr": ["ensuite"]
+    },
+    {
+        "wordQuiarana": "dragt",
+        "traductionFr": ["gauche"]
+    },
+    {
+        "wordQuiarana": "motso",
+        "traductionFr": ["haut"]
+    },
+    {
+        "wordQuiarana": "wazbè",
+        "traductionFr": ["jusqu'à"]
+    },
+    {
+        "wordQuiarana": "zéèk",
+        "traductionFr": ["mais"]
+    },
+    {
+        "wordQuiarana": "gohol",
+        "traductionFr": ["où"]
+    },
+    {
+        "wordQuiarana": "ded",
+        "traductionFr": ["or"]
+    },
+    {
+        "wordQuiarana": "vo",
+        "traductionFr": ["ou"]
+    },
+    {
+        "wordQuiarana": "mèr",
+        "traductionFr": ["pour"]
+    },
+    {
+        "wordQuiarana": "azun",
+        "traductionFr": ["pendant"]
+    },
+    {
+        "wordQuiarana": "dohok",
+        "traductionFr": ["par"]
+    },
+    {
+        "wordQuiarana": "mas",
+        "traductionFr": ["sur"]
+    },
+    {
+        "wordQuiarana": "tsuk",
+        "traductionFr": ["sous"]
+    },
+    {
+        "wordQuiarana": "trune",
+        "traductionFr": ["toujours"]
+    },
+    {
+        "wordQuiarana": "zvalur",
+        "traductionFr": ["jamais"]
+    },
+    {
+        "wordQuiarana": "partz",
+        "traductionFr": ["vers"]
+    },
+    {
+        "wordQuiarana": "wo",
+        "traductionFr": ["appartenance à"]
+    },
+    {
+        "wordQuiarana": "neveb",
+        "traductionFr": ["provenance de"]
+    },
+    {
+        "wordQuiarana": "ni ja wé",
+        "traductionFr": ["il y a"]
+    },
+    {
+        "wordQuiarana": "sakka",
+        "traductionFr": ["déjà"]
+    },
+    {
+        "wordQuiarana": "eppo",
+        "traductionFr": ["depuis"]
+    },
+    {
+        "wordQuiarana": "gihu",
+        "traductionFr": ["qui ?"]
+    },
+    {
+        "wordQuiarana": "gahé",
+        "traductionFr": ["Quoi ?", "Quel ?"]
+    },
+    {
+        "wordQuiarana": "gohol",
+        "traductionFr": ["où"]
+    },
+    {
+        "wordQuiarana": "goho",
+        "traductionFr": ["quand ?"]
+    },
+    {
+        "wordQuiarana": "nanté",
+        "traductionFr": ["comment ?"]
+    },
+    {
+        "wordQuiarana": "jop",
+        "traductionFr": ["ponctuation orale"]
+    },
+    {
+        "wordQuiarana": "saltèr",
+        "traductionFr": ["manger"]
+    },
+    {
+        "wordQuiarana": "kili",
+        "traductionFr": ["gentil"]
+    },
+    {
+        "wordQuiarana": "afaj",
+        "traductionFr": ["mécanique"]
+    },
+    {
+        "wordQuiarana": "fikt",
+        "traductionFr": ["poney"]
+    },
+    {
+        "wordQuiarana": "saan",
+        "traductionFr": ["aimer"]
+    },
+    {
+        "wordQuiarana": "pirta",
+        "traductionFr": ["commencer"]
+    },
+    {
+        "wordQuiarana": "matta",
+        "traductionFr": ["choisir"]
+    },
+    {
+        "wordQuiarana": "zoukan",
+        "traductionFr": ["jouer"]
+    },
+    {
+        "wordQuiarana": "na",
+        "traductionFr": ["un"]
+    },
+    {
+        "wordQuiarana": "var",
+        "traductionFr": ["deux"]
+    },
+    {
+        "wordQuiarana": "gar",
+        "traductionFr": ["trois"]
+    },
+    {
+        "wordQuiarana": "trai",
+        "traductionFr": ["quatre"]
+    },
+    {
+        "wordQuiarana": "pai",
+        "traductionFr": ["cinq"]
+    },
+    {
+        "wordQuiarana": "lai",
+        "traductionFr": ["six"]
+    },
+    {
+        "wordQuiarana": "mar",
+        "traductionFr": ["sept"]
+    },
+    {
+        "wordQuiarana": "kar",
+        "traductionFr": ["huit"]
+    },
+    {
+        "wordQuiarana": "zar",
+        "traductionFr": ["neuf"]
+    },
+    {
+        "wordQuiarana": "naza",
+        "traductionFr": ["dix"]
+    },
+    {
+        "wordQuiarana": "varza",
+        "traductionFr": ["vingt"]
+    },
+    {
+        "wordQuiarana": "garza",
+        "traductionFr": ["trente"]
+    },
+    {
+        "wordQuiarana": "traiza",
+        "traductionFr": ["quarante"]
+    },
+    {
+        "wordQuiarana": "paiza",
+        "traductionFr": ["cinquante"]
+    },
+    {
+        "wordQuiarana": "laiza",
+        "traductionFr": ["soixante"]
+    },
+    {
+        "wordQuiarana": "marza",
+        "traductionFr": ["soixante-dix"]
+    },
+    {
+        "wordQuiarana": "karza",
+        "traductionFr": ["quatre-vingt"]
+    },
+    {
+        "wordQuiarana": "zarza",
+        "traductionFr": ["quatre-vingt-dix"]
+    },
+    {
+        "wordQuiarana": "mèl",
+        "traductionFr": ["cent"]
+    },
+    {
+        "wordQuiarana": "pèk",
+        "traductionFr": ["mille"]
+    },
+    {
+        "wordQuiarana": "tréhor",
+        "traductionFr": ["million"]
+    },
+    {
+        "wordQuiarana": "tréhorth",
+        "traductionFr": ["milliard"]
+    }
+]

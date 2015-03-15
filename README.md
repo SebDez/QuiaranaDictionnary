@@ -1,2 +1,2 @@
 # QuiaranaDictionnary
-Dictionnary French-Quiarana for Mopowok
+Dictionnary French-Quiarana for Mopowok !
