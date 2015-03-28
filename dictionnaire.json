@@ -148,7 +148,7 @@
     },
     {
         "wordQuiarana": "né/na/ni vazki",
-        "traductionFr": ["il/elle/on est"]
+        "traductionFr": ["il est", "elle est","on est"]
     },
     {
         "wordQuiarana": "navo tètkè",
@@ -160,7 +160,7 @@
     },
     {
         "wordQuiarana": "klo vazké",
-        "traductionFr": ["ils/elles sont"]
+        "traductionFr": ["ils sont","elles sont"]
     },
     {
         "wordQuiarana": "mé lèkatra",
@@ -172,7 +172,7 @@
     },
     {
         "wordQuiarana": "né/na/ni vazkil",
-        "traductionFr": ["il/elle/on était"]
+        "traductionFr": ["il était","elle était","on était"]
     },
     {
         "wordQuiarana": "navo tètkètrè",
@@ -196,7 +196,7 @@
     },
     {
         "wordQuiarana": "né/na/ni kazvil",
-        "traductionFr": ["il/elle/on sera"]
+        "traductionFr": ["il sera", "elle sera", "on sera"]
     },
     {
         "wordQuiarana": "navo tètlè",
@@ -220,7 +220,7 @@
     },
     {
         "wordQuiarana": "né/na/ni wé",
-        "traductionFr": ["il/elle/on a"]
+        "traductionFr": ["il a", "elle a", "on a"]
     },
     {
         "wordQuiarana": "navo wai",
@@ -244,7 +244,7 @@
     },
     {
         "wordQuiarana": "né/na/ni wei",
-        "traductionFr": ["il/elle/on avait"]
+        "traductionFr": ["il avait", "elle avait", "on avait"]
     },
     {
         "wordQuiarana": "navo waio",
@@ -268,7 +268,7 @@
     },
     {
         "wordQuiarana": "na/na/ni wèl",
-        "traductionFr": ["il/elle/on aura"]
+        "traductionFr": ["il aura", "elle aura", "on aura"]
     },
     {
         "wordQuiarana": "navo wail",
@@ -645,5 +645,133 @@
     {
         "wordQuiarana": "tréhorth",
         "traductionFr": ["milliard"]
+    },
+    {
+        "wordQuiarana": "Bellar Mitsuk",
+        "traductionFr": ["Le Royaume Souterrain"]
+    },
+    {
+        "wordQuiarana": "Bellar",
+        "traductionFr": ["Royaume"]
+    },
+    {
+        "wordQuiarana": "Chakta",
+        "traductionFr": ["guider"]
+    },
+    {
+        "wordQuiarana": "afrit",
+        "traductionFr": ["vengeance"]
+    },
+    {
+        "wordQuiarana": "gihé",
+        "traductionFr": ["que"]
+    },
+    {
+        "wordQuiarana": "sholtak",
+        "traductionFr": ["paix"]
+    },
+    {
+        "wordQuiarana": "kilajèrna",
+        "traductionFr": ["régner"]
+    },
+    {
+        "wordQuiarana": "koh",
+        "traductionFr": ["le coeur"]
+    },
+    {
+        "wordQuiarana": "etta",
+        "traductionFr": ["dieu"]
+    },
+    {
+        "wordQuiarana": "blive",
+        "traductionFr": ["mer"]
+    },
+    {
+        "wordQuiarana": "mero",
+        "traductionFr": ["grand"]
+    },
+    {
+        "wordQuiarana": "tassa",
+        "traductionFr": ["table"]
+    },
+    {
+        "wordQuiarana": "diil",
+        "traductionFr": ["pousser", "grandir"]
+    },
+    {
+        "wordQuiarana": "prol",
+        "traductionFr": ["arbre"]
+    },
+    {
+        "wordQuiarana": "tirri",
+        "traductionFr": ["chat"]
+    },
+    {
+        "wordQuiarana": "tunulu",
+        "traductionFr": ["oreille"]
+    },
+    {
+        "wordQuiarana": "brassa",
+        "traductionFr": ["reine"]
+    },
+    {
+        "wordQuiarana": "kawa",
+        "traductionFr": ["chien"]
+    },
+    {
+        "wordQuiarana": "varuom",
+        "traductionFr": ["deuxième"]
+    },
+    {
+        "wordQuiarana": "ragdoll",
+        "traductionFr": ["immobiliser"]
+    },
+    {
+        "wordQuiarana": "liga",
+        "traductionFr": ["bonjour"]
+    },
+    {
+        "wordQuiarana": "cili",
+        "traductionFr": ["se rappeler"]
+    },
+    {
+        "wordQuiarana": "marbarhé",
+        "traductionFr": ["appeller"]
+    },
+    {
+        "wordQuiarana": "kifa",
+        "traductionFr": ["s'il te plait", "s'il vous plait", "stp", "svp"]
+    },
+    {
+        "wordQuiarana": "maxy",
+        "traductionFr": ["maintenant"]
+    },
+    {
+        "wordQuiarana": "chégofy",
+        "traductionFr": ["dire"]
+    },
+    {
+        "wordQuiarana": "hetilli",
+        "traductionFr": ["truite"]
+    },
+    {
+        "wordQuiarana": "sahoaz",
+        "traductionFr": ["frère"]
+    },
+    {
+        "wordQuiarana": "Ortnogan",
+        "traductionFr": ["empester", "puer"]
+    },
+    {
+        "wordQuiarana": "losbor",
+        "traductionFr": ["l'alcool"]
+    },
+    {
+        "wordQuiarana": "kazderzian",
+        "traductionFr": ["invocation"]
+    },
+    {
+        "wordQuiarana": "quiaran",
+        "traductionFr": ["parler"]
     }
 ]
