@@ -773,5 +773,9 @@
     {
         "wordQuiarana": "quiaran",
         "traductionFr": ["parler"]
+    },
+    {
+        "wordQuiarana": "Beli",
+        "traductionFr": ["plier"]
     }
 ]
